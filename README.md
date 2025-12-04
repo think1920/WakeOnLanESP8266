@@ -111,7 +111,3 @@ The interface is entirely self-contained (no external CDN dependency after initi
 - Graceful handling of network failures and JSON parsing errors.
 - Balanced trade-off between display update frequency and network/CPU load.
 - Significant power reduction through minimal delay in the main loop — particularly relevant for battery or solar-powered deployments.
-
----
-*An elegant fusion of remote power management and environmental awareness on a single low-cost microcontroller.*
-```
